@@ -1,0 +1,17 @@
+D:\windows form\Game_Show_Trac_Nghiem\bin\Debug\net7.0-windows\Game_Show_Trac_Nghiem.exe
+D:\windows form\Game_Show_Trac_Nghiem\bin\Debug\net7.0-windows\Game_Show_Trac_Nghiem.deps.json
+D:\windows form\Game_Show_Trac_Nghiem\bin\Debug\net7.0-windows\Game_Show_Trac_Nghiem.runtimeconfig.json
+D:\windows form\Game_Show_Trac_Nghiem\bin\Debug\net7.0-windows\Game_Show_Trac_Nghiem.dll
+D:\windows form\Game_Show_Trac_Nghiem\bin\Debug\net7.0-windows\Game_Show_Trac_Nghiem.pdb
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.csproj.AssemblyReference.cache
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.Form1.resources
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.csproj.GenerateResource.cache
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.AssemblyInfoInputs.cache
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.AssemblyInfo.cs
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.csproj.CoreCompileInputs.cache
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.dll
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\refint\Game_Show_Trac_Nghiem.dll
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.pdb
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\Game_Show_Trac_Nghiem.genruntimeconfig.cache
+D:\windows form\Game_Show_Trac_Nghiem\obj\Debug\net7.0-windows\ref\Game_Show_Trac_Nghiem.dll
